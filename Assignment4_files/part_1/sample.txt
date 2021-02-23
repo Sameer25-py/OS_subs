@@ -1,0 +1,17 @@
+   Logical     Physical     Read\Write     Value    Page Fault
+   
+   0x0310      0x0010         Read         0x0       Yes
+   0x4c38      0x0138         Write        0x0      Yes
+   0xb66d      0x026d         Write        0x0      Yes
+   0x8058      0x0358         Write        0x0      Yes
+   0x652d      0x042d         Write        0x0      Yes
+   0xcf76      0x0576         Read         0x33     Yes
+   0xdaa2      0x06a2         Write        0x1b     Yes
+   0x5492      0x0792         Write        0xa      Yes
+   0xdbd2      0x08d2         Read         0x36     Yes
+   0x7885      0x0985         Write        0x0      Yes
+   0x3d66      0x0a66         Read         0xf      Yes
+   0x03a8      0x00a8         Read         0x0      No
+   0x1525      0x0b25         Write        0x0      Yes
+   0x54c7      0x07c7         Write        0x18     No
+   0xb695      0x0295         Read         0x0      No
